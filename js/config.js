@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Project: Imperium";
+var l_serverName = "Fallout: New Vegas";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -44,7 +44,7 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/galacticempire.webm";
+var l_background = "backgrounds/videos/fallout.webm";
 
 /*(Image-background only)
 Place one or more images
@@ -85,7 +85,7 @@ var l_musicDisplay = false;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "_VdLCggbrh4", name: "THE FIRST GALACTIC.... EMPIRE!!!"}
+	{youtube: "_VdLCggbrh4", name: ""}
 ];
 
 /*Random music order?*/
